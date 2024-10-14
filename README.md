@@ -10,8 +10,8 @@ contenu dans <code>flag.enc.json</code> ?
 
 
 Fichiers : 
-- [rsa_destroyer.py](rsa_destroyer.py)
-- [output.txt](output.txt)
+- [ciphertexts.txt](ciphertexts.txt)
+- [flag.enc.json](flag.enc.json)
 
 
 
